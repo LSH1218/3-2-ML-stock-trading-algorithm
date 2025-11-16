@@ -456,8 +456,8 @@ class StockPredictor:
 ## 👤 작성자
 
 **이석현 (Lee Seokhyun)**
-- 동양미래대학교 자동화공학과
-- Email: sukhyun1218@naver.com
+- 동양미래대학교 로봇공학과
+- Email: sukhyun1218@gmail.com
 - GitHub: [@LSH1218](https://github.com/LSH1218)
 
 ## 📄 라이선스
